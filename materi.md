@@ -149,10 +149,119 @@ Dengan memahami perkembangan AI dan dampaknya pada dunia kerja di TI, para profe
 - Junior: IDR 8-16 juta per bulan.
 - Senior: IDR 20-40 juta per bulan.
 
+## 6. Software Developer
+**Deskripsi Pekerjaan:**
+- Mengembangkan, menguji, dan memelihara aplikasi perangkat lunak.
+- Bekerja sama dengan tim untuk merancang solusi perangkat lunak.
+- Memecahkan masalah teknis dan mengoptimalkan kinerja aplikasi.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dalam pemrograman dengan bahasa seperti Java, C++, Python, atau JavaScript.
+- Pemahaman tentang siklus hidup pengembangan perangkat lunak (SDLC).
+
+**Perkiraan Gaji:**
+- Junior: IDR 8-15 juta per bulan.
+- Senior: IDR 20-35 juta per bulan.
+
+## 7. System Administrator
+**Deskripsi Pekerjaan:**
+- Mengelola dan memelihara infrastruktur TI perusahaan.
+- Memastikan ketersediaan dan kinerja sistem jaringan dan server.
+- Melakukan pemeliharaan rutin dan pemecahan masalah.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dengan sistem operasi seperti Windows Server, Linux.
+- Pengetahuan tentang jaringan, keamanan, dan virtualisasi.
+
+**Perkiraan Gaji:**
+- Junior: IDR 7-12 juta per bulan.
+- Senior: IDR 15-25 juta per bulan.
+
+## 8. Database Administrator
+**Deskripsi Pekerjaan:**
+- Mengelola dan memelihara sistem basis data perusahaan.
+- Memastikan integritas, keamanan, dan ketersediaan data.
+- Melakukan optimasi kinerja dan perencanaan kapasitas.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dengan sistem manajemen basis data seperti MySQL, PostgreSQL, Oracle.
+- Kemampuan dalam pemrograman SQL dan pemecahan masalah basis data.
+
+**Perkiraan Gaji:**
+- Junior: IDR 8-15 juta per bulan.
+- Senior: IDR 18-30 juta per bulan.
+
+## 9. Front-End Developer
+**Deskripsi Pekerjaan:**
+- Mengembangkan antarmuka pengguna untuk aplikasi web.
+- Berkolaborasi dengan desainer untuk mengimplementasikan desain UI/UX.
+- Memastikan responsivitas dan kinerja aplikasi web.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dengan HTML, CSS, JavaScript, dan frameworks seperti React, Angular, atau Vue.js.
+- Pemahaman tentang prinsip desain web responsif.
+
+**Perkiraan Gaji:**
+- Junior: IDR 7-14 juta per bulan.
+- Senior: IDR 18-30 juta per bulan.
+
+## 10. Back-End Developer
+**Deskripsi Pekerjaan:**
+- Mengembangkan dan memelihara logika server-side dan integrasi basis data.
+- Bekerja sama dengan tim front-end untuk mengintegrasikan aplikasi.
+- Memastikan kinerja, skalabilitas, dan keamanan aplikasi.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dengan bahasa pemrograman server-side seperti Java, Python, Ruby, PHP.
+- Pengetahuan tentang RESTful API dan arsitektur layanan mikro.
+
+**Perkiraan Gaji:**
+- Junior: IDR 8-16 juta per bulan.
+- Senior: IDR 20-35 juta per bulan.
+
+## 11. DevOps Engineer
+**Deskripsi Pekerjaan:**
+- Menerapkan dan mengelola alat otomatisasi untuk pengembangan dan operasi perangkat lunak.
+- Bekerja untuk meningkatkan kolaborasi antara tim pengembangan dan operasi.
+- Memastikan keandalan dan skalabilitas infrastruktur TI.
+
+**Kualifikasi:**
+- Gelar dalam Ilmu Komputer atau bidang terkait.
+- Pengalaman dengan alat CI/CD, containerization (Docker, Kubernetes), dan cloud computing (AWS, Azure, GCP).
+- Kemampuan scripting dengan Bash, Python, atau Perl.
+
+**Perkiraan Gaji:**
+- Junior: IDR 10-20 juta per bulan.
+- Senior: IDR 25-40 juta per bulan.
+
+## 12. UI/UX Designer
+**Deskripsi Pekerjaan:**
+- Mendesain antarmuka pengguna dan pengalaman pengguna untuk aplikasi web dan mobile.
+- Membuat wireframes, prototipe, dan mockup.
+- Melakukan penelitian pengguna dan pengujian kegunaan.
+
+**Kualifikasi:**
+- Gelar dalam Desain Grafis, Desain Interaksi, atau bidang terkait.
+- Pengalaman dengan alat desain seperti Adobe XD, Sketch, Figma.
+- Kemampuan dalam memahami dan menerapkan prinsip desain UX.
+
+**Perkiraan Gaji:**
+- Junior: IDR 7-12 juta per bulan.
+- Senior: IDR 15-25 juta per bulan.
+
 ## Sumber Informasi
+
+Gaji yang disebutkan di atas adalah perkiraan dan dapat bervariasi tergantung pada perusahaan, lokasi, dan pengalaman kandidat. Untuk informasi lebih lanjut, Anda dapat mengunjungi situs web lowongan kerja seperti:
+
 - [JobStreet](https://www.jobstreet.co.id)
 - [LinkedIn Jobs](https://www.linkedin.com/jobs)
 - [Indeed](https://www.indeed.com)
 - [Glassdoor](https://www.glassdoor.com)
+
 
 
